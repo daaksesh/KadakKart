@@ -12,7 +12,7 @@
 
 Your website will go live at:
 
-https://YOURUSERNAME.github.io/REPOSITORYNAME/
+https://daaksesh.github.io/KadakKart/
 
 ## Files Included
 
